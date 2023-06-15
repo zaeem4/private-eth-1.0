@@ -31,8 +31,7 @@
   ```
     geth --datadir ./datadir account new
   ```
-    #### enter the password and save the public address in a file
-
+  
   ### make genesis file (details to create a first block)
     paste the following code and replace the address in alloc with the account you prev made
     {
