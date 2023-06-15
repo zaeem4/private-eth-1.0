@@ -19,8 +19,8 @@
     git pull
     make geth
   ```
-  ### copy to main branch
-  ``` sudo cp build/bin/geth /usr/local/bin/ ```
+  ### copy to global (once it done close and terminal and reopen and check geth version)
+  ``` sudo cp build/bin/geth /usr/local/bin/ ``` 
 
   ### create folder
   ```
@@ -34,7 +34,7 @@
   ```
     #### enter the password and save the public address in a file
 
-  ### make genesis file (detaisl to create a first block)
+  ### make genesis file (details to create a first block)
     paste the following code and replace the address in alloc with the account you prev made
     {
       "config": {
