@@ -56,7 +56,7 @@
       }
     }
 
-  ### initialize data dir where blockchain data is stored
+  ### initialize data dir where blockchain data will store
   ```
     geth --datadir ./blockchainData init ./genesis.json
   ```
