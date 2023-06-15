@@ -67,3 +67,11 @@
   ``` 
     geth --datadir ./blockchainData --networkid 4785 console 2>> eth.log
   ```
+
+  ### import accoun to your blockchain
+  #### copy files from keystore to blockchainData. This will copy accounts that we created prev.
+  
+  ### to check account details run
+  ```
+    eth.accounts
+  ```
