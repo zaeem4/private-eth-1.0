@@ -5,7 +5,7 @@
   sudo apt-get install ethereum
 ```
 
-## After version realse 1.12 POW is no loger supported for this following sleps needed to done
+## After version realse 1.12 POW is no loger supported for this following steps needed to done
 
 ## install go from following link
   ### remeber the version is go1.20.5.linux-amd64.tar.gz
