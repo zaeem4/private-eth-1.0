@@ -73,3 +73,9 @@
   ```
     eth.accounts
   ```
+  ### to run another node
+  1. create a new folder like blockchainData with another name
+  2. initialize the genesis block for this folder
+  3. run the following command to run a new node
+  4. ``` geth --datadir ./blockchainData --networkid 4785 --port 30305 --authrpc.port 8553 console ```
+  5. the port and authrpc port must be change for every node if running on same machine
