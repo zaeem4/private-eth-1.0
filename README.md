@@ -18,7 +18,7 @@
     git pull
     make geth
   ```
-  ### copy to global (once it done close and terminal and reopen and check geth version)
+  ### copy to global (once it done close the terminal and reopen and check geth version)
   ``` sudo cp build/bin/geth /usr/local/bin/ ``` 
 
   ### create folder
